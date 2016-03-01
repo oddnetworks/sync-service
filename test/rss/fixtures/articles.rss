@@ -1,0 +1,25 @@
+<?xml version="1.0"?>
+<rss version="2.0"
+    xmlns:xcal="urn:ietf:params:xml:ns:xcal"
+    xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>RSS Schedule</title>
+    <link>http://example.com/en/bfts/articles.rss</link>
+    <description>RSS Schedule</description>
+		<item>
+	    <title>Chicago Invitational</title>
+	    <description>Allstate Arena</description>
+	    <link>http://link.to/atricle</link>
+	    <guid>http://link.to/article</guid>
+			<category>BFTS</category>
+	    <source url="http://example.com/en/bfts/articles.rss">example.com</source>
+	    <pubDate>NOT A VALID DATE</pubDate>
+	    <media:content
+	      url = "http://server/image1.jpg"
+	      type = "image/jpeg"
+	      medium = "image">
+	    </media:content>
+      <content:encoded>Chicago Invitational</content:encoded>
+		</item>
+  </channel>
+</rss>

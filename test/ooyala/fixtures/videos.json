@@ -1,0 +1,61 @@
+{
+  "items": [
+    {
+      "player_id": "1eb4382d6c7f4bcfa9e1ccf3e520198b",
+      "ad_set_id": null,
+      "asset_type": "video",
+      "embed_code": "00000",
+      "description": "Video 1",
+      "created_at": "2015-08-20T16:30:17Z",
+      "publishing_rule_id": "22222",
+      "time_restrictions": null,
+      "updated_at": "2015-08-20T16:31:30Z",
+      "hosted_at": null,
+      "original_file_name": "Video 1",
+      "name": "Video 1",
+      "status": "live",
+      "duration": "30113",
+      "external_id": null,
+      "preview_image_url": "http://ak.c.ooyala.com/Y4aWY0dzp_fj1MNc9jps3ZuNQXqmgCEt/3Gduepif0T1UGY8H4xMDoxOjBzMTt2bJ",
+      "metadata": {
+      },
+      "labels": []
+    },{
+      "player_id": "1eb4382d6c7f4bcfa9e1ccf3e520198b",
+      "ad_set_id": null,
+      "asset_type": "video",
+      "embed_code": "11111",
+      "description": "Video 2",
+      "created_at": "2015-01-20T16:30:17Z",
+      "publishing_rule_id": "22222",
+      "time_restrictions": null,
+      "updated_at": "2015-01-20T16:31:30Z",
+      "hosted_at": null,
+      "original_file_name": "Video 2",
+      "name": "Video 2",
+      "status": "live",
+      "duration": "30113",
+      "external_id": null,
+      "preview_image_url": "http://ak.c.ooyala.com/Y4aWY0dzp_fj1MNc9jps3ZuNQXqmgCEt/3Gduepif0T1UGY8H4xMDoxOjBzMTt2bJ",
+      "metadata": {
+        "actor1": "Bill Murray",
+        "actor2": "Dan Ackroyd",
+        "actor3": "Sam Waterston"
+      },
+      "labels": [
+        {
+         "parent_id": null,
+         "full_name": "/LABEL2",
+         "name": "LABEL2",
+         "id": "999999-label"
+        },
+        {
+         "parent_id": null,
+         "full_name": "/LABEL1",
+         "name": "LABEL1",
+         "id": "999998-label"
+        }
+      ]
+     }
+  ]
+}

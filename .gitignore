@@ -1,0 +1,38 @@
+# OS X
+.DS_Store*
+Icon?
+._*
+
+.env
+
+# Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# Linux
+.directory
+*~
+
+
+# npm
+node_modules
+*.log
+*.gz
+
+# vagrant
+.vagrant/
+
+public/css/*
+.sass-cache/*
+
+logs/*
+pids/*
+.idea
+
+data/**/*.DELETE
+
+#tools
+.tern-port
+.tern-project
+odd-sync-service.iml

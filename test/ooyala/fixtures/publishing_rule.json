@@ -1,0 +1,24 @@
+{
+ "allowed_devices": [   "iphone",   "ipad",   "android",   "blackberry"  ],
+ "enable_device_controls": "false",
+ "domain_restrictions": {
+  "domains": [   ],
+  "type": "blacklist"
+ },
+ "geographic_restrictions": {
+  "locations": [   ],
+  "ips": [   ],
+  "type": "blacklist",
+  "dmas": [   ]
+ },
+ "proxy_restrictions": {
+  "anonymizer_statuses": [   ]
+ },
+ "time_restrictions": {
+  "start_date": "2015-05-01T20:31:00Z",
+  "end_date": null,
+  "type": "range"
+ },
+ "name": "Default Group",
+ "id": "22222"
+}

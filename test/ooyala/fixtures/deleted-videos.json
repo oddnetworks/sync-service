@@ -1,0 +1,25 @@
+{
+  "items": [   {
+    "name": "Deleted Video 1",
+    "id": "48850039",
+    "created_at": "2015-09-15T13:54:42Z",
+    "provider_id": "102803",
+    "embed_code": "Rla2NqdzrJCAMkmAnFqynhwua_ZTnqV1",
+    "deleted_at": "2015-10-21T17:52:28Z",
+    "duration": "30030",
+    "uploaded_by_user": null,
+    "asset_type": "video",
+    "description": "Deleted Video 1"
+   },   {
+    "name": "Deleted Video 2",
+    "id": "48850087",
+    "created_at": "2015-09-15T13:55:05Z",
+    "provider_id": "102803",
+    "embed_code": "xybGNqdzp5auTrxt0GgpTX04oBxSDFfT",
+    "deleted_at": "2015-10-21T17:52:20Z",
+    "duration": "30030",
+    "uploaded_by_user": null,
+    "asset_type": "video",
+    "description": "Deleted Video 2"
+   }]
+ }

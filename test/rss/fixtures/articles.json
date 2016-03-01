@@ -1,0 +1,179 @@
+{
+  "site": {
+    "#ns": [
+      {
+        "xmlns:xcal": "urn:ietf:params:xml:ns:xcal"
+      },
+      {
+        "xmlns:media": "http://search.yahoo.com/mrss/"
+      }
+    ],
+    "@": [
+      {
+        "xmlns:xcal": "urn:ietf:params:xml:ns:xcal"
+      },
+      {
+        "xmlns:media": "http://search.yahoo.com/mrss/"
+      }
+    ],
+    "#xml": {
+      "version": "1.0"
+    },
+    "#type": "rss",
+    "#version": "2.0",
+    "title": "RSS Schedule",
+    "description": "RSS Schedule",
+    "date": null,
+    "pubdate": null,
+    "pubDate": null,
+    "link": "http://example.com/en/bfts/articles.rss",
+    "xmlurl": "http://example.com/en/bfts/articles.rss",
+    "xmlUrl": "http://example.com/en/bfts/articles.rss",
+    "author": null,
+    "language": null,
+    "favicon": null,
+    "copyright": null,
+    "generator": null,
+    "cloud": {},
+    "image": {},
+    "categories": [],
+    "rss:@": {},
+    "rss:title": {
+      "@": {},
+      "#": "RSS Schedule"
+    },
+    "rss:link": {
+      "@": {},
+      "#": "http://example.com/en/bfts/articles.rss"
+    },
+    "rss:description": {
+      "@": {},
+      "#": "RSS Schedule"
+    }
+  },
+  "items": [
+    {
+      "title": "Chicago Invitational",
+      "description": "Chicago Invitational",
+      "summary": "Allstate Arena",
+      "date": null,
+      "pubdate": null,
+      "pubDate": null,
+      "link": "http://link.to/atricle",
+      "guid": "http://link.to/article",
+      "author": null,
+      "comments": null,
+      "origlink": null,
+      "image": {},
+      "source": {
+        "title": "example.com",
+        "url": "http://example.com/en/bfts/articles.rss"
+      },
+      "categories": [
+        "BFTS"
+      ],
+      "enclosures": [
+        {
+          "url": "http://server/image1.jpg",
+          "type": "image/jpeg",
+          "length": null
+        }
+      ],
+      "rss:@": {},
+      "rss:title": {
+        "@": {},
+        "#": "Chicago Invitational"
+      },
+      "rss:description": {
+        "@": {},
+        "#": "Allstate Arena"
+      },
+      "rss:link": {
+        "@": {},
+        "#": "http://link.to/atricle"
+      },
+      "permalink": "http://link.to/article",
+      "rss:guid": {
+        "@": {},
+        "#": "http://link.to/article"
+      },
+      "rss:category": {
+        "@": {},
+        "#": "BFTS"
+      },
+      "rss:source": {
+        "@": {
+          "url": "http://example.com/en/bfts/articles.rss"
+        },
+        "#": "example.com"
+      },
+      "rss:pubdate": {
+        "@": {},
+        "#": "NOT A VALID DATE"
+      },
+      "media:content": {
+        "@": {
+          "url": "http://server/image1.jpg",
+          "type": "image/jpeg",
+          "medium": "image"
+        }
+      },
+      "content:encoded": {
+        "@": {},
+        "#": "Chicago Invitational"
+      },
+      "meta": {
+        "#ns": [
+          {
+            "xmlns:xcal": "urn:ietf:params:xml:ns:xcal"
+          },
+          {
+            "xmlns:media": "http://search.yahoo.com/mrss/"
+          }
+        ],
+        "@": [
+          {
+            "xmlns:xcal": "urn:ietf:params:xml:ns:xcal"
+          },
+          {
+            "xmlns:media": "http://search.yahoo.com/mrss/"
+          }
+        ],
+        "#xml": {
+          "version": "1.0"
+        },
+        "#type": "rss",
+        "#version": "2.0",
+        "title": "RSS Schedule",
+        "description": "RSS Schedule",
+        "date": null,
+        "pubdate": null,
+        "pubDate": null,
+        "link": "http://example.com/en/bfts/articles.rss",
+        "xmlurl": "http://example.com/en/bfts/articles.rss",
+        "xmlUrl": "http://example.com/en/bfts/articles.rss",
+        "author": null,
+        "language": null,
+        "favicon": null,
+        "copyright": null,
+        "generator": null,
+        "cloud": {},
+        "image": {},
+        "categories": [],
+        "rss:@": {},
+        "rss:title": {
+          "@": {},
+          "#": "RSS Schedule"
+        },
+        "rss:link": {
+          "@": {},
+          "#": "http://example.com/en/bfts/articles.rss"
+        },
+        "rss:description": {
+          "@": {},
+          "#": "RSS Schedule"
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,2329 @@
+{
+  "site": {
+    "#ns": [
+      {
+        "xmlns:atom": "http://www.w3.org/2005/Atom"
+      },
+      {
+        "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+      },
+      {
+        "xmlns:itunes": "http://www.itunes.com/dtds/podcast-1.0.dtd"
+      },
+      {
+        "xmlns:media": "http://search.yahoo.com/mrss/"
+      }
+    ],
+    "@": [
+      {
+        "xml:base": "http://www.nasa.gov/"
+      },
+      {
+        "xmlns:atom": "http://www.w3.org/2005/Atom"
+      },
+      {
+        "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+      },
+      {
+        "xmlns:itunes": "http://www.itunes.com/dtds/podcast-1.0.dtd"
+      },
+      {
+        "xmlns:media": "http://search.yahoo.com/mrss/"
+      }
+    ],
+    "#xml": {
+      "version": "1.0",
+      "encoding": "utf-8"
+    },
+    "#type": "rss",
+    "#version": "2.0",
+    "title": "NASACast Video",
+    "description": "NASACast combines the content of all the NASACast subject area podcasts into a single omnibus podcast. Here you'll find the latest news and features on NASA's missions as well as the popular \"This Week @NASA\" newsreel.",
+    "date": null,
+    "pubdate": null,
+    "pubDate": null,
+    "link": "http://www.nasa.gov/",
+    "xmlurl": "http://www.nasa.gov/rss/dyn/NASAcast_vodcast.rss",
+    "xmlUrl": "http://www.nasa.gov/rss/dyn/NASAcast_vodcast.rss",
+    "author": "jim.wilson@nasa.gov",
+    "language": "en-us",
+    "favicon": null,
+    "copyright": "no copyright",
+    "generator": null,
+    "cloud": {},
+    "image": {
+      "url": "http://www.nasa.gov/sites/default/files/files/nasacast_itunes_1400.jpg",
+      "title": "NASACast Video"
+    },
+    "categories": [
+      "Science & Medicine"
+    ],
+    "rss:@": {},
+    "rss:title": {
+      "@": {},
+      "#": "NASACast Video"
+    },
+    "rss:description": {
+      "@": {},
+      "#": "NASACast combines the content of all the NASACast subject area podcasts into a single omnibus podcast. Here you'll find the latest news and features on NASA's missions as well as the popular \"This Week @NASA\" newsreel."
+    },
+    "rss:link": {
+      "@": {},
+      "#": "http://www.nasa.gov/"
+    },
+    "atom:link": {
+      "@": {
+        "rel": "self",
+        "href": "http://www.nasa.gov/rss/dyn/NASAcast_vodcast.rss"
+      }
+    },
+    "rss:language": {
+      "@": {},
+      "#": "en-us"
+    },
+    "rss:image": {
+      "@": {},
+      "url": {
+        "@": {},
+        "#": "http://www.nasa.gov/sites/default/files/files/nasacast_itunes_1400.jpg"
+      },
+      "title": {
+        "@": {},
+        "#": "NASACast Video"
+      },
+      "link": {
+        "@": {},
+        "#": "http://www.nasa.gov/"
+      }
+    },
+    "rss:copyright": {
+      "@": {},
+      "#": "no copyright"
+    },
+    "rss:managingeditor": {
+      "@": {},
+      "#": "jim.wilson@nasa.gov",
+      "name": "",
+      "email": "jim.wilson@nasa.gov"
+    },
+    "rss:webmaster": {
+      "@": {},
+      "#": "jim.wilson@nasa.gov",
+      "name": "",
+      "email": "jim.wilson@nasa.gov"
+    },
+    "itunes:subtitle": {
+      "@": {},
+      "#": "The latest video features from www.nasa.gov, NASATV, and more."
+    },
+    "itunes:summary": {
+      "@": {},
+      "#": "NASACast combines the content of all the NASACast subject area podcasts into a single omnibus podcast. Here you'll find the latest news and features on NASA's missions as well as the popular \"This Week @NASA\" newsreel."
+    },
+    "itunes:category": {
+      "@": {
+        "text": "Science & Medicine"
+      }
+    },
+    "itunes:keywords": {
+      "@": {},
+      "#": "NASA, Portal, audio, video, MP4s, NASATV, shuttle, Discovery, This Week at NASA, news, space, Mars, Earth, Moon, station, nation"
+    },
+    "itunes:image": {
+      "@": {
+        "href": "http://www.nasa.gov/sites/default/files/files/nasacast_itunes_1400.jpg"
+      }
+    },
+    "itunes:author": {
+      "@": {},
+      "#": "National Aeronautics and Space Administration (NASA)"
+    },
+    "itunes:explicit": {
+      "@": {},
+      "#": "no"
+    },
+    "itunes:owner": {
+      "@": {},
+      "itunes:email": {
+        "@": {},
+        "#": "jim.wilson@nasa.gov"
+      },
+      "itunes:name": {
+        "@": {},
+        "#": "Brian Dunbar"
+      }
+    }
+  },
+  "items": [
+    {
+      "title": "This Week @ NASA, January 22, 2016",
+      "description": "Oceanography satellite launches, 2015 global temperatures announced and more ...",
+      "summary": "Oceanography satellite launches, 2015 global temperatures announced and more ...",
+      "date": "2016-01-21T19:27:00.000Z",
+      "pubdate": "2016-01-21T19:27:00.000Z",
+      "pubDate": "2016-01-21T19:27:00.000Z",
+      "link": "http://www.nasa.gov/mediacast/this-week-nasa-january-22-2016",
+      "guid": "http://www.nasa.gov/mediacast/this-week-nasa-january-22-2016",
+      "author": "jim.wilson@nasa.gov",
+      "comments": null,
+      "origlink": null,
+      "image": {},
+      "source": {
+        "title": "NASACast Video",
+        "url": "http://www.nasa.gov/rss/dyn/NASAcast_vodcast.rss"
+      },
+      "categories": [],
+      "enclosures": [
+        {
+          "url": "http://www.nasa.gov/sites/default/files/atoms/video/twan0122_h264.mp4",
+          "type": "video/mp4",
+          "length": "37453043"
+        }
+      ],
+      "rss:@": {},
+      "rss:title": {
+        "@": {},
+        "#": "This Week @ NASA, January 22, 2016"
+      },
+      "rss:link": {
+        "@": {},
+        "#": "http://www.nasa.gov/mediacast/this-week-nasa-january-22-2016"
+      },
+      "rss:description": {
+        "@": {},
+        "#": "Oceanography satellite launches, 2015 global temperatures announced and more ..."
+      },
+      "rss:enclosure": {
+        "@": {
+          "url": "http://www.nasa.gov/sites/default/files/atoms/video/twan0122_h264.mp4",
+          "length": "37453043",
+          "type": "video/mp4"
+        }
+      },
+      "rss:guid": {
+        "@": {
+          "ispermalink": "false"
+        },
+        "#": "http://www.nasa.gov/mediacast/this-week-nasa-january-22-2016"
+      },
+      "rss:pubdate": {
+        "@": {},
+        "#": "Thu, 21 Jan 2016 14:27 EST"
+      },
+      "rss:source": {
+        "@": {
+          "url": "http://www.nasa.gov/rss/dyn/NASAcast_vodcast.rss"
+        },
+        "#": "NASACast Video"
+      },
+      "meta": {
+        "#ns": [
+          {
+            "xmlns:atom": "http://www.w3.org/2005/Atom"
+          },
+          {
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+          },
+          {
+            "xmlns:itunes": "http://www.itunes.com/dtds/podcast-1.0.dtd"
+          },
+          {
+            "xmlns:media": "http://search.yahoo.com/mrss/"
+          }
+        ],
+        "@": [
+          {
+            "xml:base": "http://www.nasa.gov/"
+          },
+          {
+            "xmlns:atom": "http://www.w3.org/2005/Atom"
+          },
+          {
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+          },
+          {
+            "xmlns:itunes": "http://www.itunes.com/dtds/podcast-1.0.dtd"
+          },
+          {
+            "xmlns:media": "http://search.yahoo.com/mrss/"
+          }
+        ],
+        "#xml": {
+          "version": "1.0",
+          "encoding": "utf-8"
+        },
+        "#type": "rss",
+        "#version": "2.0",
+        "title": "NASACast Video",
+        "description": "NASACast combines the content of all the NASACast subject area podcasts into a single omnibus podcast. Here you'll find the latest news and features on NASA's missions as well as the popular \"This Week @NASA\" newsreel.",
+        "date": null,
+        "pubdate": null,
+        "pubDate": null,
+        "link": "http://www.nasa.gov/",
+        "xmlurl": "http://www.nasa.gov/rss/dyn/NASAcast_vodcast.rss",
+        "xmlUrl": "http://www.nasa.gov/rss/dyn/NASAcast_vodcast.rss",
+        "author": "jim.wilson@nasa.gov",
+        "language": "en-us",
+        "favicon": null,
+        "copyright": "no copyright",
+        "generator": null,
+        "cloud": {},
+        "image": {
+          "url": "http://www.nasa.gov/sites/default/files/files/nasacast_itunes_1400.jpg",
+          "title": "NASACast Video"
+        },
+        "categories": [
+          "Science & Medicine"
+        ],
+        "rss:@": {},
+        "rss:title": {
+          "@": {},
+          "#": "NASACast Video"
+        },
+        "rss:description": {
+          "@": {},
+          "#": "NASACast combines the content of all the NASACast subject area podcasts into a single omnibus podcast. Here you'll find the latest news and features on NASA's missions as well as the popular \"This Week @NASA\" newsreel."
+        },
+        "rss:link": {
+          "@": {},
+          "#": "http://www.nasa.gov/"
+        },
+        "atom:link": {
+          "@": {
+            "rel": "self",
+            "href": "http://www.nasa.gov/rss/dyn/NASAcast_vodcast.rss"
+          }
+        },
+        "rss:language": {
+          "@": {},
+          "#": "en-us"
+        },
+        "rss:image": {
+          "@": {},
+          "url": {
+            "@": {},
+            "#": "http://www.nasa.gov/sites/default/files/files/nasacast_itunes_1400.jpg"
+          },
+          "title": {
+            "@": {},
+            "#": "NASACast Video"
+          },
+          "link": {
+            "@": {},
+            "#": "http://www.nasa.gov/"
+          }
+        },
+        "rss:copyright": {
+          "@": {},
+          "#": "no copyright"
+        },
+        "rss:managingeditor": {
+          "@": {},
+          "#": "jim.wilson@nasa.gov",
+          "name": "",
+          "email": "jim.wilson@nasa.gov"
+        },
+        "rss:webmaster": {
+          "@": {},
+          "#": "jim.wilson@nasa.gov",
+          "name": "",
+          "email": "jim.wilson@nasa.gov"
+        },
+        "itunes:subtitle": {
+          "@": {},
+          "#": "The latest video features from www.nasa.gov, NASATV, and more."
+        },
+        "itunes:summary": {
+          "@": {},
+          "#": "NASACast combines the content of all the NASACast subject area podcasts into a single omnibus podcast. Here you'll find the latest news and features on NASA's missions as well as the popular \"This Week @NASA\" newsreel."
+        },
+        "itunes:category": {
+          "@": {
+            "text": "Science & Medicine"
+          }
+        },
+        "itunes:keywords": {
+          "@": {},
+          "#": "NASA, Portal, audio, video, MP4s, NASATV, shuttle, Discovery, This Week at NASA, news, space, Mars, Earth, Moon, station, nation"
+        },
+        "itunes:image": {
+          "@": {
+            "href": "http://www.nasa.gov/sites/default/files/files/nasacast_itunes_1400.jpg"
+          }
+        },
+        "itunes:author": {
+          "@": {},
+          "#": "National Aeronautics and Space Administration (NASA)"
+        },
+        "itunes:explicit": {
+          "@": {},
+          "#": "no"
+        },
+        "itunes:owner": {
+          "@": {},
+          "itunes:email": {
+            "@": {},
+            "#": "jim.wilson@nasa.gov"
+          },
+          "itunes:name": {
+            "@": {},
+            "#": "Brian Dunbar"
+          }
+        }
+      }
+    },
+    {
+      "title": "This Week @ NASA, January 15, 2016",
+      "description": "Space Station Cargo Contracts, Space Station Spacewalk and more ...",
+      "summary": "Space Station Cargo Contracts, Space Station Spacewalk and more ...",
+      "date": "2016-01-15T17:59:00.000Z",
+      "pubdate": "2016-01-15T17:59:00.000Z",
+      "pubDate": "2016-01-15T17:59:00.000Z",
+      "link": "http://www.nasa.gov/mediacast/this-week-nasa-january-15-2016",
+      "guid": "http://www.nasa.gov/mediacast/this-week-nasa-january-15-2016",
+      "author": "jim.wilson@nasa.gov",
+      "comments": null,
+      "origlink": null,
+      "image": {},
+      "source": {
+        "title": "NASACast Video",
+        "url": "http://www.nasa.gov/rss/dyn/NASAcast_vodcast.rss"
+      },
+      "categories": [],
+      "enclosures": [
+        {
+          "url": "http://www.nasa.gov/sites/default/files/atoms/video/twan0115_h264_0.mp4",
+          "type": "video/mp4",
+          "length": "68533096"
+        }
+      ],
+      "rss:@": {},
+      "rss:title": {
+        "@": {},
+        "#": "This Week @ NASA, January 15, 2016"
+      },
+      "rss:link": {
+        "@": {},
+        "#": "http://www.nasa.gov/mediacast/this-week-nasa-january-15-2016"
+      },
+      "rss:description": {
+        "@": {},
+        "#": "Space Station Cargo Contracts, Space Station Spacewalk and more ..."
+      },
+      "rss:enclosure": {
+        "@": {
+          "url": "http://www.nasa.gov/sites/default/files/atoms/video/twan0115_h264_0.mp4",
+          "length": "68533096",
+          "type": "video/mp4"
+        }
+      },
+      "rss:guid": {
+        "@": {
+          "ispermalink": "false"
+        },
+        "#": "http://www.nasa.gov/mediacast/this-week-nasa-january-15-2016"
+      },
+      "rss:pubdate": {
+        "@": {},
+        "#": "Fri, 15 Jan 2016 12:59 EST"
+      },
+      "rss:source": {
+        "@": {
+          "url": "http://www.nasa.gov/rss/dyn/NASAcast_vodcast.rss"
+        },
+        "#": "NASACast Video"
+      },
+      "meta": {
+        "#ns": [
+          {
+            "xmlns:atom": "http://www.w3.org/2005/Atom"
+          },
+          {
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+          },
+          {
+            "xmlns:itunes": "http://www.itunes.com/dtds/podcast-1.0.dtd"
+          },
+          {
+            "xmlns:media": "http://search.yahoo.com/mrss/"
+          }
+        ],
+        "@": [
+          {
+            "xml:base": "http://www.nasa.gov/"
+          },
+          {
+            "xmlns:atom": "http://www.w3.org/2005/Atom"
+          },
+          {
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+          },
+          {
+            "xmlns:itunes": "http://www.itunes.com/dtds/podcast-1.0.dtd"
+          },
+          {
+            "xmlns:media": "http://search.yahoo.com/mrss/"
+          }
+        ],
+        "#xml": {
+          "version": "1.0",
+          "encoding": "utf-8"
+        },
+        "#type": "rss",
+        "#version": "2.0",
+        "title": "NASACast Video",
+        "description": "NASACast combines the content of all the NASACast subject area podcasts into a single omnibus podcast. Here you'll find the latest news and features on NASA's missions as well as the popular \"This Week @NASA\" newsreel.",
+        "date": null,
+        "pubdate": null,
+        "pubDate": null,
+        "link": "http://www.nasa.gov/",
+        "xmlurl": "http://www.nasa.gov/rss/dyn/NASAcast_vodcast.rss",
+        "xmlUrl": "http://www.nasa.gov/rss/dyn/NASAcast_vodcast.rss",
+        "author": "jim.wilson@nasa.gov",
+        "language": "en-us",
+        "favicon": null,
+        "copyright": "no copyright",
+        "generator": null,
+        "cloud": {},
+        "image": {
+          "url": "http://www.nasa.gov/sites/default/files/files/nasacast_itunes_1400.jpg",
+          "title": "NASACast Video"
+        },
+        "categories": [
+          "Science & Medicine"
+        ],
+        "rss:@": {},
+        "rss:title": {
+          "@": {},
+          "#": "NASACast Video"
+        },
+        "rss:description": {
+          "@": {},
+          "#": "NASACast combines the content of all the NASACast subject area podcasts into a single omnibus podcast. Here you'll find the latest news and features on NASA's missions as well as the popular \"This Week @NASA\" newsreel."
+        },
+        "rss:link": {
+          "@": {},
+          "#": "http://www.nasa.gov/"
+        },
+        "atom:link": {
+          "@": {
+            "rel": "self",
+            "href": "http://www.nasa.gov/rss/dyn/NASAcast_vodcast.rss"
+          }
+        },
+        "rss:language": {
+          "@": {},
+          "#": "en-us"
+        },
+        "rss:image": {
+          "@": {},
+          "url": {
+            "@": {},
+            "#": "http://www.nasa.gov/sites/default/files/files/nasacast_itunes_1400.jpg"
+          },
+          "title": {
+            "@": {},
+            "#": "NASACast Video"
+          },
+          "link": {
+            "@": {},
+            "#": "http://www.nasa.gov/"
+          }
+        },
+        "rss:copyright": {
+          "@": {},
+          "#": "no copyright"
+        },
+        "rss:managingeditor": {
+          "@": {},
+          "#": "jim.wilson@nasa.gov",
+          "name": "",
+          "email": "jim.wilson@nasa.gov"
+        },
+        "rss:webmaster": {
+          "@": {},
+          "#": "jim.wilson@nasa.gov",
+          "name": "",
+          "email": "jim.wilson@nasa.gov"
+        },
+        "itunes:subtitle": {
+          "@": {},
+          "#": "The latest video features from www.nasa.gov, NASATV, and more."
+        },
+        "itunes:summary": {
+          "@": {},
+          "#": "NASACast combines the content of all the NASACast subject area podcasts into a single omnibus podcast. Here you'll find the latest news and features on NASA's missions as well as the popular \"This Week @NASA\" newsreel."
+        },
+        "itunes:category": {
+          "@": {
+            "text": "Science & Medicine"
+          }
+        },
+        "itunes:keywords": {
+          "@": {},
+          "#": "NASA, Portal, audio, video, MP4s, NASATV, shuttle, Discovery, This Week at NASA, news, space, Mars, Earth, Moon, station, nation"
+        },
+        "itunes:image": {
+          "@": {
+            "href": "http://www.nasa.gov/sites/default/files/files/nasacast_itunes_1400.jpg"
+          }
+        },
+        "itunes:author": {
+          "@": {},
+          "#": "National Aeronautics and Space Administration (NASA)"
+        },
+        "itunes:explicit": {
+          "@": {},
+          "#": "no"
+        },
+        "itunes:owner": {
+          "@": {},
+          "itunes:email": {
+            "@": {},
+            "#": "jim.wilson@nasa.gov"
+          },
+          "itunes:name": {
+            "@": {},
+            "#": "Brian Dunbar"
+          }
+        }
+      }
+    },
+    {
+      "title": "This Week @ NASA, January 8, 2016",
+      "description": "NASA astronomical findings highlighted, Next space station crew preparing for mission and more ...",
+      "summary": "NASA astronomical findings highlighted, Next space station crew preparing for mission and more ...",
+      "date": "2016-01-08T18:31:00.000Z",
+      "pubdate": "2016-01-08T18:31:00.000Z",
+      "pubDate": "2016-01-08T18:31:00.000Z",
+      "link": "http://www.nasa.gov/mediacast/this-week-nasa-january-8-2016",
+      "guid": "http://www.nasa.gov/mediacast/this-week-nasa-january-8-2016",
+      "author": "jim.wilson@nasa.gov",
+      "comments": null,
+      "origlink": null,
+      "image": {},
+      "source": {
+        "title": "NASACast Video",
+        "url": "http://www.nasa.gov/rss/dyn/NASAcast_vodcast.rss"
+      },
+      "categories": [],
+      "enclosures": [
+        {
+          "url": "http://www.nasa.gov/sites/default/files/atoms/video/twan0108_h264.mp4",
+          "type": "video/mp4",
+          "length": "60619511"
+        }
+      ],
+      "rss:@": {},
+      "rss:title": {
+        "@": {},
+        "#": "This Week @ NASA, January 8, 2016"
+      },
+      "rss:link": {
+        "@": {},
+        "#": "http://www.nasa.gov/mediacast/this-week-nasa-january-8-2016"
+      },
+      "rss:description": {
+        "@": {},
+        "#": "NASA astronomical findings highlighted, Next space station crew preparing for mission and more ..."
+      },
+      "rss:enclosure": {
+        "@": {
+          "url": "http://www.nasa.gov/sites/default/files/atoms/video/twan0108_h264.mp4",
+          "length": "60619511",
+          "type": "video/mp4"
+        }
+      },
+      "rss:guid": {
+        "@": {
+          "ispermalink": "false"
+        },
+        "#": "http://www.nasa.gov/mediacast/this-week-nasa-january-8-2016"
+      },
+      "rss:pubdate": {
+        "@": {},
+        "#": "Fri, 08 Jan 2016 13:31 EST"
+      },
+      "rss:source": {
+        "@": {
+          "url": "http://www.nasa.gov/rss/dyn/NASAcast_vodcast.rss"
+        },
+        "#": "NASACast Video"
+      },
+      "meta": {
+        "#ns": [
+          {
+            "xmlns:atom": "http://www.w3.org/2005/Atom"
+          },
+          {
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+          },
+          {
+            "xmlns:itunes": "http://www.itunes.com/dtds/podcast-1.0.dtd"
+          },
+          {
+            "xmlns:media": "http://search.yahoo.com/mrss/"
+          }
+        ],
+        "@": [
+          {
+            "xml:base": "http://www.nasa.gov/"
+          },
+          {
+            "xmlns:atom": "http://www.w3.org/2005/Atom"
+          },
+          {
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+          },
+          {
+            "xmlns:itunes": "http://www.itunes.com/dtds/podcast-1.0.dtd"
+          },
+          {
+            "xmlns:media": "http://search.yahoo.com/mrss/"
+          }
+        ],
+        "#xml": {
+          "version": "1.0",
+          "encoding": "utf-8"
+        },
+        "#type": "rss",
+        "#version": "2.0",
+        "title": "NASACast Video",
+        "description": "NASACast combines the content of all the NASACast subject area podcasts into a single omnibus podcast. Here you'll find the latest news and features on NASA's missions as well as the popular \"This Week @NASA\" newsreel.",
+        "date": null,
+        "pubdate": null,
+        "pubDate": null,
+        "link": "http://www.nasa.gov/",
+        "xmlurl": "http://www.nasa.gov/rss/dyn/NASAcast_vodcast.rss",
+        "xmlUrl": "http://www.nasa.gov/rss/dyn/NASAcast_vodcast.rss",
+        "author": "jim.wilson@nasa.gov",
+        "language": "en-us",
+        "favicon": null,
+        "copyright": "no copyright",
+        "generator": null,
+        "cloud": {},
+        "image": {
+          "url": "http://www.nasa.gov/sites/default/files/files/nasacast_itunes_1400.jpg",
+          "title": "NASACast Video"
+        },
+        "categories": [
+          "Science & Medicine"
+        ],
+        "rss:@": {},
+        "rss:title": {
+          "@": {},
+          "#": "NASACast Video"
+        },
+        "rss:description": {
+          "@": {},
+          "#": "NASACast combines the content of all the NASACast subject area podcasts into a single omnibus podcast. Here you'll find the latest news and features on NASA's missions as well as the popular \"This Week @NASA\" newsreel."
+        },
+        "rss:link": {
+          "@": {},
+          "#": "http://www.nasa.gov/"
+        },
+        "atom:link": {
+          "@": {
+            "rel": "self",
+            "href": "http://www.nasa.gov/rss/dyn/NASAcast_vodcast.rss"
+          }
+        },
+        "rss:language": {
+          "@": {},
+          "#": "en-us"
+        },
+        "rss:image": {
+          "@": {},
+          "url": {
+            "@": {},
+            "#": "http://www.nasa.gov/sites/default/files/files/nasacast_itunes_1400.jpg"
+          },
+          "title": {
+            "@": {},
+            "#": "NASACast Video"
+          },
+          "link": {
+            "@": {},
+            "#": "http://www.nasa.gov/"
+          }
+        },
+        "rss:copyright": {
+          "@": {},
+          "#": "no copyright"
+        },
+        "rss:managingeditor": {
+          "@": {},
+          "#": "jim.wilson@nasa.gov",
+          "name": "",
+          "email": "jim.wilson@nasa.gov"
+        },
+        "rss:webmaster": {
+          "@": {},
+          "#": "jim.wilson@nasa.gov",
+          "name": "",
+          "email": "jim.wilson@nasa.gov"
+        },
+        "itunes:subtitle": {
+          "@": {},
+          "#": "The latest video features from www.nasa.gov, NASATV, and more."
+        },
+        "itunes:summary": {
+          "@": {},
+          "#": "NASACast combines the content of all the NASACast subject area podcasts into a single omnibus podcast. Here you'll find the latest news and features on NASA's missions as well as the popular \"This Week @NASA\" newsreel."
+        },
+        "itunes:category": {
+          "@": {
+            "text": "Science & Medicine"
+          }
+        },
+        "itunes:keywords": {
+          "@": {},
+          "#": "NASA, Portal, audio, video, MP4s, NASATV, shuttle, Discovery, This Week at NASA, news, space, Mars, Earth, Moon, station, nation"
+        },
+        "itunes:image": {
+          "@": {
+            "href": "http://www.nasa.gov/sites/default/files/files/nasacast_itunes_1400.jpg"
+          }
+        },
+        "itunes:author": {
+          "@": {},
+          "#": "National Aeronautics and Space Administration (NASA)"
+        },
+        "itunes:explicit": {
+          "@": {},
+          "#": "no"
+        },
+        "itunes:owner": {
+          "@": {},
+          "itunes:email": {
+            "@": {},
+            "#": "jim.wilson@nasa.gov"
+          },
+          "itunes:name": {
+            "@": {},
+            "#": "Brian Dunbar"
+          }
+        }
+      }
+    },
+    {
+      "title": "What's Up - January 2016",
+      "description": "A meteor shower, a binocular comet, and the winter circle of stars!",
+      "summary": "A meteor shower, a binocular comet, and the winter circle of stars!",
+      "date": "2015-12-30T21:30:00.000Z",
+      "pubdate": "2015-12-30T21:30:00.000Z",
+      "pubDate": "2015-12-30T21:30:00.000Z",
+      "link": "http://www.nasa.gov/mediacast/jpl/whats-up-january-2016",
+      "guid": "http://www.nasa.gov/mediacast/jpl/whats-up-january-2016",
+      "author": "jim.wilson@nasa.gov",
+      "comments": null,
+      "origlink": null,
+      "image": {},
+      "source": {
+        "title": "NASACast Video",
+        "url": "http://www.nasa.gov/rss/dyn/NASAcast_vodcast.rss"
+      },
+      "categories": [],
+      "enclosures": [
+        {
+          "url": "http://www.nasa.gov/sites/default/files/atoms/video/jpl-20160101-whatsum-0001-320_1.mp4",
+          "type": "video/mp4",
+          "length": "8829867"
+        }
+      ],
+      "rss:@": {},
+      "rss:title": {
+        "@": {},
+        "#": "What's Up - January 2016"
+      },
+      "rss:link": {
+        "@": {},
+        "#": "http://www.nasa.gov/mediacast/jpl/whats-up-january-2016"
+      },
+      "rss:description": {
+        "@": {},
+        "#": "A meteor shower, a binocular comet, and the winter circle of stars!"
+      },
+      "rss:enclosure": {
+        "@": {
+          "url": "http://www.nasa.gov/sites/default/files/atoms/video/jpl-20160101-whatsum-0001-320_1.mp4",
+          "length": "8829867",
+          "type": "video/mp4"
+        }
+      },
+      "rss:guid": {
+        "@": {
+          "ispermalink": "false"
+        },
+        "#": "http://www.nasa.gov/mediacast/jpl/whats-up-january-2016"
+      },
+      "rss:pubdate": {
+        "@": {},
+        "#": "Wed, 30 Dec 2015 16:30 EST"
+      },
+      "rss:source": {
+        "@": {
+          "url": "http://www.nasa.gov/rss/dyn/NASAcast_vodcast.rss"
+        },
+        "#": "NASACast Video"
+      },
+      "meta": {
+        "#ns": [
+          {
+            "xmlns:atom": "http://www.w3.org/2005/Atom"
+          },
+          {
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+          },
+          {
+            "xmlns:itunes": "http://www.itunes.com/dtds/podcast-1.0.dtd"
+          },
+          {
+            "xmlns:media": "http://search.yahoo.com/mrss/"
+          }
+        ],
+        "@": [
+          {
+            "xml:base": "http://www.nasa.gov/"
+          },
+          {
+            "xmlns:atom": "http://www.w3.org/2005/Atom"
+          },
+          {
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+          },
+          {
+            "xmlns:itunes": "http://www.itunes.com/dtds/podcast-1.0.dtd"
+          },
+          {
+            "xmlns:media": "http://search.yahoo.com/mrss/"
+          }
+        ],
+        "#xml": {
+          "version": "1.0",
+          "encoding": "utf-8"
+        },
+        "#type": "rss",
+        "#version": "2.0",
+        "title": "NASACast Video",
+        "description": "NASACast combines the content of all the NASACast subject area podcasts into a single omnibus podcast. Here you'll find the latest news and features on NASA's missions as well as the popular \"This Week @NASA\" newsreel.",
+        "date": null,
+        "pubdate": null,
+        "pubDate": null,
+        "link": "http://www.nasa.gov/",
+        "xmlurl": "http://www.nasa.gov/rss/dyn/NASAcast_vodcast.rss",
+        "xmlUrl": "http://www.nasa.gov/rss/dyn/NASAcast_vodcast.rss",
+        "author": "jim.wilson@nasa.gov",
+        "language": "en-us",
+        "favicon": null,
+        "copyright": "no copyright",
+        "generator": null,
+        "cloud": {},
+        "image": {
+          "url": "http://www.nasa.gov/sites/default/files/files/nasacast_itunes_1400.jpg",
+          "title": "NASACast Video"
+        },
+        "categories": [
+          "Science & Medicine"
+        ],
+        "rss:@": {},
+        "rss:title": {
+          "@": {},
+          "#": "NASACast Video"
+        },
+        "rss:description": {
+          "@": {},
+          "#": "NASACast combines the content of all the NASACast subject area podcasts into a single omnibus podcast. Here you'll find the latest news and features on NASA's missions as well as the popular \"This Week @NASA\" newsreel."
+        },
+        "rss:link": {
+          "@": {},
+          "#": "http://www.nasa.gov/"
+        },
+        "atom:link": {
+          "@": {
+            "rel": "self",
+            "href": "http://www.nasa.gov/rss/dyn/NASAcast_vodcast.rss"
+          }
+        },
+        "rss:language": {
+          "@": {},
+          "#": "en-us"
+        },
+        "rss:image": {
+          "@": {},
+          "url": {
+            "@": {},
+            "#": "http://www.nasa.gov/sites/default/files/files/nasacast_itunes_1400.jpg"
+          },
+          "title": {
+            "@": {},
+            "#": "NASACast Video"
+          },
+          "link": {
+            "@": {},
+            "#": "http://www.nasa.gov/"
+          }
+        },
+        "rss:copyright": {
+          "@": {},
+          "#": "no copyright"
+        },
+        "rss:managingeditor": {
+          "@": {},
+          "#": "jim.wilson@nasa.gov",
+          "name": "",
+          "email": "jim.wilson@nasa.gov"
+        },
+        "rss:webmaster": {
+          "@": {},
+          "#": "jim.wilson@nasa.gov",
+          "name": "",
+          "email": "jim.wilson@nasa.gov"
+        },
+        "itunes:subtitle": {
+          "@": {},
+          "#": "The latest video features from www.nasa.gov, NASATV, and more."
+        },
+        "itunes:summary": {
+          "@": {},
+          "#": "NASACast combines the content of all the NASACast subject area podcasts into a single omnibus podcast. Here you'll find the latest news and features on NASA's missions as well as the popular \"This Week @NASA\" newsreel."
+        },
+        "itunes:category": {
+          "@": {
+            "text": "Science & Medicine"
+          }
+        },
+        "itunes:keywords": {
+          "@": {},
+          "#": "NASA, Portal, audio, video, MP4s, NASATV, shuttle, Discovery, This Week at NASA, news, space, Mars, Earth, Moon, station, nation"
+        },
+        "itunes:image": {
+          "@": {
+            "href": "http://www.nasa.gov/sites/default/files/files/nasacast_itunes_1400.jpg"
+          }
+        },
+        "itunes:author": {
+          "@": {},
+          "#": "National Aeronautics and Space Administration (NASA)"
+        },
+        "itunes:explicit": {
+          "@": {},
+          "#": "no"
+        },
+        "itunes:owner": {
+          "@": {},
+          "itunes:email": {
+            "@": {},
+            "#": "jim.wilson@nasa.gov"
+          },
+          "itunes:name": {
+            "@": {},
+            "#": "Brian Dunbar"
+          }
+        }
+      }
+    },
+    {
+      "title": "Space to Ground: A Look Back: 12/25/15",
+      "description": "CREW MEMBERS SPENT A WHOPPING 1900 HOURS THIS YEAR WORKING ON 450 EXPERIMENTS ON THE ORBITAL LABORATORY.",
+      "summary": "CREW MEMBERS SPENT A WHOPPING 1900 HOURS THIS YEAR WORKING ON 450 EXPERIMENTS ON THE ORBITAL LABORATORY.",
+      "date": "2015-12-25T15:16:00.000Z",
+      "pubdate": "2015-12-25T15:16:00.000Z",
+      "pubDate": "2015-12-25T15:16:00.000Z",
+      "link": "http://www.nasa.gov/mediacast/space-to-ground-a-look-back-122515",
+      "guid": "http://www.nasa.gov/mediacast/space-to-ground-a-look-back-122515",
+      "author": "jim.wilson@nasa.gov",
+      "comments": null,
+      "origlink": null,
+      "image": {},
+      "source": {
+        "title": "NASACast Video",
+        "url": "http://www.nasa.gov/rss/dyn/NASAcast_vodcast.rss"
+      },
+      "categories": [],
+      "enclosures": [
+        {
+          "url": "http://www.nasa.gov/sites/default/files/atoms/files/space-to-ground_106_151225_web.mov",
+          "type": "video/quicktime",
+          "length": "138707703"
+        }
+      ],
+      "rss:@": {},
+      "rss:title": {
+        "@": {},
+        "#": "Space to Ground: A Look Back: 12/25/15"
+      },
+      "rss:link": {
+        "@": {},
+        "#": "http://www.nasa.gov/mediacast/space-to-ground-a-look-back-122515"
+      },
+      "rss:description": {
+        "@": {},
+        "#": "CREW MEMBERS SPENT A WHOPPING 1900 HOURS THIS YEAR WORKING ON 450 EXPERIMENTS ON THE ORBITAL LABORATORY."
+      },
+      "rss:enclosure": {
+        "@": {
+          "url": "http://www.nasa.gov/sites/default/files/atoms/files/space-to-ground_106_151225_web.mov",
+          "length": "138707703",
+          "type": "video/quicktime"
+        }
+      },
+      "rss:guid": {
+        "@": {
+          "ispermalink": "false"
+        },
+        "#": "http://www.nasa.gov/mediacast/space-to-ground-a-look-back-122515"
+      },
+      "rss:pubdate": {
+        "@": {},
+        "#": "Fri, 25 Dec 2015 10:16 EST"
+      },
+      "rss:source": {
+        "@": {
+          "url": "http://www.nasa.gov/rss/dyn/NASAcast_vodcast.rss"
+        },
+        "#": "NASACast Video"
+      },
+      "meta": {
+        "#ns": [
+          {
+            "xmlns:atom": "http://www.w3.org/2005/Atom"
+          },
+          {
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+          },
+          {
+            "xmlns:itunes": "http://www.itunes.com/dtds/podcast-1.0.dtd"
+          },
+          {
+            "xmlns:media": "http://search.yahoo.com/mrss/"
+          }
+        ],
+        "@": [
+          {
+            "xml:base": "http://www.nasa.gov/"
+          },
+          {
+            "xmlns:atom": "http://www.w3.org/2005/Atom"
+          },
+          {
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+          },
+          {
+            "xmlns:itunes": "http://www.itunes.com/dtds/podcast-1.0.dtd"
+          },
+          {
+            "xmlns:media": "http://search.yahoo.com/mrss/"
+          }
+        ],
+        "#xml": {
+          "version": "1.0",
+          "encoding": "utf-8"
+        },
+        "#type": "rss",
+        "#version": "2.0",
+        "title": "NASACast Video",
+        "description": "NASACast combines the content of all the NASACast subject area podcasts into a single omnibus podcast. Here you'll find the latest news and features on NASA's missions as well as the popular \"This Week @NASA\" newsreel.",
+        "date": null,
+        "pubdate": null,
+        "pubDate": null,
+        "link": "http://www.nasa.gov/",
+        "xmlurl": "http://www.nasa.gov/rss/dyn/NASAcast_vodcast.rss",
+        "xmlUrl": "http://www.nasa.gov/rss/dyn/NASAcast_vodcast.rss",
+        "author": "jim.wilson@nasa.gov",
+        "language": "en-us",
+        "favicon": null,
+        "copyright": "no copyright",
+        "generator": null,
+        "cloud": {},
+        "image": {
+          "url": "http://www.nasa.gov/sites/default/files/files/nasacast_itunes_1400.jpg",
+          "title": "NASACast Video"
+        },
+        "categories": [
+          "Science & Medicine"
+        ],
+        "rss:@": {},
+        "rss:title": {
+          "@": {},
+          "#": "NASACast Video"
+        },
+        "rss:description": {
+          "@": {},
+          "#": "NASACast combines the content of all the NASACast subject area podcasts into a single omnibus podcast. Here you'll find the latest news and features on NASA's missions as well as the popular \"This Week @NASA\" newsreel."
+        },
+        "rss:link": {
+          "@": {},
+          "#": "http://www.nasa.gov/"
+        },
+        "atom:link": {
+          "@": {
+            "rel": "self",
+            "href": "http://www.nasa.gov/rss/dyn/NASAcast_vodcast.rss"
+          }
+        },
+        "rss:language": {
+          "@": {},
+          "#": "en-us"
+        },
+        "rss:image": {
+          "@": {},
+          "url": {
+            "@": {},
+            "#": "http://www.nasa.gov/sites/default/files/files/nasacast_itunes_1400.jpg"
+          },
+          "title": {
+            "@": {},
+            "#": "NASACast Video"
+          },
+          "link": {
+            "@": {},
+            "#": "http://www.nasa.gov/"
+          }
+        },
+        "rss:copyright": {
+          "@": {},
+          "#": "no copyright"
+        },
+        "rss:managingeditor": {
+          "@": {},
+          "#": "jim.wilson@nasa.gov",
+          "name": "",
+          "email": "jim.wilson@nasa.gov"
+        },
+        "rss:webmaster": {
+          "@": {},
+          "#": "jim.wilson@nasa.gov",
+          "name": "",
+          "email": "jim.wilson@nasa.gov"
+        },
+        "itunes:subtitle": {
+          "@": {},
+          "#": "The latest video features from www.nasa.gov, NASATV, and more."
+        },
+        "itunes:summary": {
+          "@": {},
+          "#": "NASACast combines the content of all the NASACast subject area podcasts into a single omnibus podcast. Here you'll find the latest news and features on NASA's missions as well as the popular \"This Week @NASA\" newsreel."
+        },
+        "itunes:category": {
+          "@": {
+            "text": "Science & Medicine"
+          }
+        },
+        "itunes:keywords": {
+          "@": {},
+          "#": "NASA, Portal, audio, video, MP4s, NASATV, shuttle, Discovery, This Week at NASA, news, space, Mars, Earth, Moon, station, nation"
+        },
+        "itunes:image": {
+          "@": {
+            "href": "http://www.nasa.gov/sites/default/files/files/nasacast_itunes_1400.jpg"
+          }
+        },
+        "itunes:author": {
+          "@": {},
+          "#": "National Aeronautics and Space Administration (NASA)"
+        },
+        "itunes:explicit": {
+          "@": {},
+          "#": "no"
+        },
+        "itunes:owner": {
+          "@": {},
+          "itunes:email": {
+            "@": {},
+            "#": "jim.wilson@nasa.gov"
+          },
+          "itunes:name": {
+            "@": {},
+            "#": "Brian Dunbar"
+          }
+        }
+      }
+    },
+    {
+      "title": "This Year @ NASA, Dec. 21, 2015",
+      "description": "A look at some of the top NASA stories of 2015, including liquid water on Mars, the first spacecraft to reach Pluto, and the beginning of a year-long mission on the International Space Station.",
+      "summary": "A look at some of the top NASA stories of 2015, including liquid water on Mars, the first spacecraft to reach Pluto, and the beginning of a year-long mission on the International Space Station.",
+      "date": "2015-12-21T20:34:00.000Z",
+      "pubdate": "2015-12-21T20:34:00.000Z",
+      "pubDate": "2015-12-21T20:34:00.000Z",
+      "link": "http://www.nasa.gov/mediacast/this-year-nasa-december-18-2015",
+      "guid": "http://www.nasa.gov/mediacast/this-year-nasa-december-18-2015",
+      "author": "jim.wilson@nasa.gov",
+      "comments": null,
+      "origlink": null,
+      "image": {},
+      "source": {
+        "title": "NASACast Video",
+        "url": "http://www.nasa.gov/rss/dyn/NASAcast_vodcast.rss"
+      },
+      "categories": [],
+      "enclosures": [
+        {
+          "url": "http://www.nasa.gov/sites/default/files/atoms/video/tyan2015_h264.mp4",
+          "type": "video/mp4",
+          "length": "115641049"
+        }
+      ],
+      "rss:@": {},
+      "rss:title": {
+        "@": {},
+        "#": "This Year @ NASA, Dec. 21, 2015"
+      },
+      "rss:link": {
+        "@": {},
+        "#": "http://www.nasa.gov/mediacast/this-year-nasa-december-18-2015"
+      },
+      "rss:description": {
+        "@": {},
+        "#": "A look at some of the top NASA stories of 2015, including liquid water on Mars, the first spacecraft to reach Pluto, and the beginning of a year-long mission on the International Space Station."
+      },
+      "rss:enclosure": {
+        "@": {
+          "url": "http://www.nasa.gov/sites/default/files/atoms/video/tyan2015_h264.mp4",
+          "length": "115641049",
+          "type": "video/mp4"
+        }
+      },
+      "rss:guid": {
+        "@": {
+          "ispermalink": "false"
+        },
+        "#": "http://www.nasa.gov/mediacast/this-year-nasa-december-18-2015"
+      },
+      "rss:pubdate": {
+        "@": {},
+        "#": "Mon, 21 Dec 2015 15:34 EST"
+      },
+      "rss:source": {
+        "@": {
+          "url": "http://www.nasa.gov/rss/dyn/NASAcast_vodcast.rss"
+        },
+        "#": "NASACast Video"
+      },
+      "meta": {
+        "#ns": [
+          {
+            "xmlns:atom": "http://www.w3.org/2005/Atom"
+          },
+          {
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+          },
+          {
+            "xmlns:itunes": "http://www.itunes.com/dtds/podcast-1.0.dtd"
+          },
+          {
+            "xmlns:media": "http://search.yahoo.com/mrss/"
+          }
+        ],
+        "@": [
+          {
+            "xml:base": "http://www.nasa.gov/"
+          },
+          {
+            "xmlns:atom": "http://www.w3.org/2005/Atom"
+          },
+          {
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+          },
+          {
+            "xmlns:itunes": "http://www.itunes.com/dtds/podcast-1.0.dtd"
+          },
+          {
+            "xmlns:media": "http://search.yahoo.com/mrss/"
+          }
+        ],
+        "#xml": {
+          "version": "1.0",
+          "encoding": "utf-8"
+        },
+        "#type": "rss",
+        "#version": "2.0",
+        "title": "NASACast Video",
+        "description": "NASACast combines the content of all the NASACast subject area podcasts into a single omnibus podcast. Here you'll find the latest news and features on NASA's missions as well as the popular \"This Week @NASA\" newsreel.",
+        "date": null,
+        "pubdate": null,
+        "pubDate": null,
+        "link": "http://www.nasa.gov/",
+        "xmlurl": "http://www.nasa.gov/rss/dyn/NASAcast_vodcast.rss",
+        "xmlUrl": "http://www.nasa.gov/rss/dyn/NASAcast_vodcast.rss",
+        "author": "jim.wilson@nasa.gov",
+        "language": "en-us",
+        "favicon": null,
+        "copyright": "no copyright",
+        "generator": null,
+        "cloud": {},
+        "image": {
+          "url": "http://www.nasa.gov/sites/default/files/files/nasacast_itunes_1400.jpg",
+          "title": "NASACast Video"
+        },
+        "categories": [
+          "Science & Medicine"
+        ],
+        "rss:@": {},
+        "rss:title": {
+          "@": {},
+          "#": "NASACast Video"
+        },
+        "rss:description": {
+          "@": {},
+          "#": "NASACast combines the content of all the NASACast subject area podcasts into a single omnibus podcast. Here you'll find the latest news and features on NASA's missions as well as the popular \"This Week @NASA\" newsreel."
+        },
+        "rss:link": {
+          "@": {},
+          "#": "http://www.nasa.gov/"
+        },
+        "atom:link": {
+          "@": {
+            "rel": "self",
+            "href": "http://www.nasa.gov/rss/dyn/NASAcast_vodcast.rss"
+          }
+        },
+        "rss:language": {
+          "@": {},
+          "#": "en-us"
+        },
+        "rss:image": {
+          "@": {},
+          "url": {
+            "@": {},
+            "#": "http://www.nasa.gov/sites/default/files/files/nasacast_itunes_1400.jpg"
+          },
+          "title": {
+            "@": {},
+            "#": "NASACast Video"
+          },
+          "link": {
+            "@": {},
+            "#": "http://www.nasa.gov/"
+          }
+        },
+        "rss:copyright": {
+          "@": {},
+          "#": "no copyright"
+        },
+        "rss:managingeditor": {
+          "@": {},
+          "#": "jim.wilson@nasa.gov",
+          "name": "",
+          "email": "jim.wilson@nasa.gov"
+        },
+        "rss:webmaster": {
+          "@": {},
+          "#": "jim.wilson@nasa.gov",
+          "name": "",
+          "email": "jim.wilson@nasa.gov"
+        },
+        "itunes:subtitle": {
+          "@": {},
+          "#": "The latest video features from www.nasa.gov, NASATV, and more."
+        },
+        "itunes:summary": {
+          "@": {},
+          "#": "NASACast combines the content of all the NASACast subject area podcasts into a single omnibus podcast. Here you'll find the latest news and features on NASA's missions as well as the popular \"This Week @NASA\" newsreel."
+        },
+        "itunes:category": {
+          "@": {
+            "text": "Science & Medicine"
+          }
+        },
+        "itunes:keywords": {
+          "@": {},
+          "#": "NASA, Portal, audio, video, MP4s, NASATV, shuttle, Discovery, This Week at NASA, news, space, Mars, Earth, Moon, station, nation"
+        },
+        "itunes:image": {
+          "@": {
+            "href": "http://www.nasa.gov/sites/default/files/files/nasacast_itunes_1400.jpg"
+          }
+        },
+        "itunes:author": {
+          "@": {},
+          "#": "National Aeronautics and Space Administration (NASA)"
+        },
+        "itunes:explicit": {
+          "@": {},
+          "#": "no"
+        },
+        "itunes:owner": {
+          "@": {},
+          "itunes:email": {
+            "@": {},
+            "#": "jim.wilson@nasa.gov"
+          },
+          "itunes:name": {
+            "@": {},
+            "#": "Brian Dunbar"
+          }
+        }
+      }
+    },
+    {
+      "title": "Space to Ground: Home For The Holidays: 12/11/2015",
+      "description": "IT WAS A BITTERSWEET MORNING AS 3 OF OUR CREW MEMBERS SAID FAREWELL TO SPACE AND HELLO TO MOTHER EARTH.",
+      "summary": "IT WAS A BITTERSWEET MORNING AS 3 OF OUR CREW MEMBERS SAID FAREWELL TO SPACE AND HELLO TO MOTHER EARTH.",
+      "date": "2015-12-16T21:02:00.000Z",
+      "pubdate": "2015-12-16T21:02:00.000Z",
+      "pubDate": "2015-12-16T21:02:00.000Z",
+      "link": "http://www.nasa.gov/mediacast/space-to-ground-home-for-the-holidays-12112015",
+      "guid": "http://www.nasa.gov/mediacast/space-to-ground-home-for-the-holidays-12112015",
+      "author": "jim.wilson@nasa.gov",
+      "comments": null,
+      "origlink": null,
+      "image": {},
+      "source": {
+        "title": "NASACast Video",
+        "url": "http://www.nasa.gov/rss/dyn/NASAcast_vodcast.rss"
+      },
+      "categories": [],
+      "enclosures": [
+        {
+          "url": "http://www.nasa.gov/sites/default/files/atoms/files/space-to-ground_104_151210_web.mov",
+          "type": "video/quicktime",
+          "length": "103215294"
+        }
+      ],
+      "rss:@": {},
+      "rss:title": {
+        "@": {},
+        "#": "Space to Ground: Home For The Holidays: 12/11/2015"
+      },
+      "rss:link": {
+        "@": {},
+        "#": "http://www.nasa.gov/mediacast/space-to-ground-home-for-the-holidays-12112015"
+      },
+      "rss:description": {
+        "@": {},
+        "#": "IT WAS A BITTERSWEET MORNING AS 3 OF OUR CREW MEMBERS SAID FAREWELL TO SPACE AND HELLO TO MOTHER EARTH."
+      },
+      "rss:enclosure": {
+        "@": {
+          "url": "http://www.nasa.gov/sites/default/files/atoms/files/space-to-ground_104_151210_web.mov",
+          "length": "103215294",
+          "type": "video/quicktime"
+        }
+      },
+      "rss:guid": {
+        "@": {
+          "ispermalink": "false"
+        },
+        "#": "http://www.nasa.gov/mediacast/space-to-ground-home-for-the-holidays-12112015"
+      },
+      "rss:pubdate": {
+        "@": {},
+        "#": "Wed, 16 Dec 2015 16:02 EST"
+      },
+      "rss:source": {
+        "@": {
+          "url": "http://www.nasa.gov/rss/dyn/NASAcast_vodcast.rss"
+        },
+        "#": "NASACast Video"
+      },
+      "meta": {
+        "#ns": [
+          {
+            "xmlns:atom": "http://www.w3.org/2005/Atom"
+          },
+          {
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+          },
+          {
+            "xmlns:itunes": "http://www.itunes.com/dtds/podcast-1.0.dtd"
+          },
+          {
+            "xmlns:media": "http://search.yahoo.com/mrss/"
+          }
+        ],
+        "@": [
+          {
+            "xml:base": "http://www.nasa.gov/"
+          },
+          {
+            "xmlns:atom": "http://www.w3.org/2005/Atom"
+          },
+          {
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+          },
+          {
+            "xmlns:itunes": "http://www.itunes.com/dtds/podcast-1.0.dtd"
+          },
+          {
+            "xmlns:media": "http://search.yahoo.com/mrss/"
+          }
+        ],
+        "#xml": {
+          "version": "1.0",
+          "encoding": "utf-8"
+        },
+        "#type": "rss",
+        "#version": "2.0",
+        "title": "NASACast Video",
+        "description": "NASACast combines the content of all the NASACast subject area podcasts into a single omnibus podcast. Here you'll find the latest news and features on NASA's missions as well as the popular \"This Week @NASA\" newsreel.",
+        "date": null,
+        "pubdate": null,
+        "pubDate": null,
+        "link": "http://www.nasa.gov/",
+        "xmlurl": "http://www.nasa.gov/rss/dyn/NASAcast_vodcast.rss",
+        "xmlUrl": "http://www.nasa.gov/rss/dyn/NASAcast_vodcast.rss",
+        "author": "jim.wilson@nasa.gov",
+        "language": "en-us",
+        "favicon": null,
+        "copyright": "no copyright",
+        "generator": null,
+        "cloud": {},
+        "image": {
+          "url": "http://www.nasa.gov/sites/default/files/files/nasacast_itunes_1400.jpg",
+          "title": "NASACast Video"
+        },
+        "categories": [
+          "Science & Medicine"
+        ],
+        "rss:@": {},
+        "rss:title": {
+          "@": {},
+          "#": "NASACast Video"
+        },
+        "rss:description": {
+          "@": {},
+          "#": "NASACast combines the content of all the NASACast subject area podcasts into a single omnibus podcast. Here you'll find the latest news and features on NASA's missions as well as the popular \"This Week @NASA\" newsreel."
+        },
+        "rss:link": {
+          "@": {},
+          "#": "http://www.nasa.gov/"
+        },
+        "atom:link": {
+          "@": {
+            "rel": "self",
+            "href": "http://www.nasa.gov/rss/dyn/NASAcast_vodcast.rss"
+          }
+        },
+        "rss:language": {
+          "@": {},
+          "#": "en-us"
+        },
+        "rss:image": {
+          "@": {},
+          "url": {
+            "@": {},
+            "#": "http://www.nasa.gov/sites/default/files/files/nasacast_itunes_1400.jpg"
+          },
+          "title": {
+            "@": {},
+            "#": "NASACast Video"
+          },
+          "link": {
+            "@": {},
+            "#": "http://www.nasa.gov/"
+          }
+        },
+        "rss:copyright": {
+          "@": {},
+          "#": "no copyright"
+        },
+        "rss:managingeditor": {
+          "@": {},
+          "#": "jim.wilson@nasa.gov",
+          "name": "",
+          "email": "jim.wilson@nasa.gov"
+        },
+        "rss:webmaster": {
+          "@": {},
+          "#": "jim.wilson@nasa.gov",
+          "name": "",
+          "email": "jim.wilson@nasa.gov"
+        },
+        "itunes:subtitle": {
+          "@": {},
+          "#": "The latest video features from www.nasa.gov, NASATV, and more."
+        },
+        "itunes:summary": {
+          "@": {},
+          "#": "NASACast combines the content of all the NASACast subject area podcasts into a single omnibus podcast. Here you'll find the latest news and features on NASA's missions as well as the popular \"This Week @NASA\" newsreel."
+        },
+        "itunes:category": {
+          "@": {
+            "text": "Science & Medicine"
+          }
+        },
+        "itunes:keywords": {
+          "@": {},
+          "#": "NASA, Portal, audio, video, MP4s, NASATV, shuttle, Discovery, This Week at NASA, news, space, Mars, Earth, Moon, station, nation"
+        },
+        "itunes:image": {
+          "@": {
+            "href": "http://www.nasa.gov/sites/default/files/files/nasacast_itunes_1400.jpg"
+          }
+        },
+        "itunes:author": {
+          "@": {},
+          "#": "National Aeronautics and Space Administration (NASA)"
+        },
+        "itunes:explicit": {
+          "@": {},
+          "#": "no"
+        },
+        "itunes:owner": {
+          "@": {},
+          "itunes:email": {
+            "@": {},
+            "#": "jim.wilson@nasa.gov"
+          },
+          "itunes:name": {
+            "@": {},
+            "#": "Brian Dunbar"
+          }
+        }
+      }
+    },
+    {
+      "title": "Curiosity Rover Report:  First Visit to Martian Dunes",
+      "description": "Curiosity performs the first investigation of active sand dunes on another planet. Studying the Bagnold Dunes on Mars will help scientists understand the physics of Martian dunes and how they move.",
+      "summary": "Curiosity performs the first investigation of active sand dunes on another planet. Studying the Bagnold Dunes on Mars will help scientists understand the physics of Martian dunes and how they move.",
+      "date": "2015-12-16T00:20:00.000Z",
+      "pubdate": "2015-12-16T00:20:00.000Z",
+      "pubDate": "2015-12-16T00:20:00.000Z",
+      "link": "http://www.nasa.gov/mediacast/jpl/curiosity-rover-report-first-visit-to-martian-dunes",
+      "guid": "http://www.nasa.gov/mediacast/jpl/curiosity-rover-report-first-visit-to-martian-dunes",
+      "author": "jim.wilson@nasa.gov",
+      "comments": null,
+      "origlink": null,
+      "image": {},
+      "source": {
+        "title": "NASACast Video",
+        "url": "http://www.nasa.gov/rss/dyn/NASAcast_vodcast.rss"
+      },
+      "categories": [],
+      "enclosures": [
+        {
+          "url": "http://www.nasa.gov/sites/default/files/atoms/video/jpl-20151215-mslm-0000-first_visit_to_martian_dunes-320.mp4",
+          "type": "video/mp4",
+          "length": "36478436"
+        }
+      ],
+      "rss:@": {},
+      "rss:title": {
+        "@": {},
+        "#": "Curiosity Rover Report:  First Visit to Martian Dunes"
+      },
+      "rss:link": {
+        "@": {},
+        "#": "http://www.nasa.gov/mediacast/jpl/curiosity-rover-report-first-visit-to-martian-dunes"
+      },
+      "rss:description": {
+        "@": {},
+        "#": "Curiosity performs the first investigation of active sand dunes on another planet. Studying the Bagnold Dunes on Mars will help scientists understand the physics of Martian dunes and how they move."
+      },
+      "rss:enclosure": {
+        "@": {
+          "url": "http://www.nasa.gov/sites/default/files/atoms/video/jpl-20151215-mslm-0000-first_visit_to_martian_dunes-320.mp4",
+          "length": "36478436",
+          "type": "video/mp4"
+        }
+      },
+      "rss:guid": {
+        "@": {
+          "ispermalink": "false"
+        },
+        "#": "http://www.nasa.gov/mediacast/jpl/curiosity-rover-report-first-visit-to-martian-dunes"
+      },
+      "rss:pubdate": {
+        "@": {},
+        "#": "Tue, 15 Dec 2015 19:20 EST"
+      },
+      "rss:source": {
+        "@": {
+          "url": "http://www.nasa.gov/rss/dyn/NASAcast_vodcast.rss"
+        },
+        "#": "NASACast Video"
+      },
+      "meta": {
+        "#ns": [
+          {
+            "xmlns:atom": "http://www.w3.org/2005/Atom"
+          },
+          {
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+          },
+          {
+            "xmlns:itunes": "http://www.itunes.com/dtds/podcast-1.0.dtd"
+          },
+          {
+            "xmlns:media": "http://search.yahoo.com/mrss/"
+          }
+        ],
+        "@": [
+          {
+            "xml:base": "http://www.nasa.gov/"
+          },
+          {
+            "xmlns:atom": "http://www.w3.org/2005/Atom"
+          },
+          {
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+          },
+          {
+            "xmlns:itunes": "http://www.itunes.com/dtds/podcast-1.0.dtd"
+          },
+          {
+            "xmlns:media": "http://search.yahoo.com/mrss/"
+          }
+        ],
+        "#xml": {
+          "version": "1.0",
+          "encoding": "utf-8"
+        },
+        "#type": "rss",
+        "#version": "2.0",
+        "title": "NASACast Video",
+        "description": "NASACast combines the content of all the NASACast subject area podcasts into a single omnibus podcast. Here you'll find the latest news and features on NASA's missions as well as the popular \"This Week @NASA\" newsreel.",
+        "date": null,
+        "pubdate": null,
+        "pubDate": null,
+        "link": "http://www.nasa.gov/",
+        "xmlurl": "http://www.nasa.gov/rss/dyn/NASAcast_vodcast.rss",
+        "xmlUrl": "http://www.nasa.gov/rss/dyn/NASAcast_vodcast.rss",
+        "author": "jim.wilson@nasa.gov",
+        "language": "en-us",
+        "favicon": null,
+        "copyright": "no copyright",
+        "generator": null,
+        "cloud": {},
+        "image": {
+          "url": "http://www.nasa.gov/sites/default/files/files/nasacast_itunes_1400.jpg",
+          "title": "NASACast Video"
+        },
+        "categories": [
+          "Science & Medicine"
+        ],
+        "rss:@": {},
+        "rss:title": {
+          "@": {},
+          "#": "NASACast Video"
+        },
+        "rss:description": {
+          "@": {},
+          "#": "NASACast combines the content of all the NASACast subject area podcasts into a single omnibus podcast. Here you'll find the latest news and features on NASA's missions as well as the popular \"This Week @NASA\" newsreel."
+        },
+        "rss:link": {
+          "@": {},
+          "#": "http://www.nasa.gov/"
+        },
+        "atom:link": {
+          "@": {
+            "rel": "self",
+            "href": "http://www.nasa.gov/rss/dyn/NASAcast_vodcast.rss"
+          }
+        },
+        "rss:language": {
+          "@": {},
+          "#": "en-us"
+        },
+        "rss:image": {
+          "@": {},
+          "url": {
+            "@": {},
+            "#": "http://www.nasa.gov/sites/default/files/files/nasacast_itunes_1400.jpg"
+          },
+          "title": {
+            "@": {},
+            "#": "NASACast Video"
+          },
+          "link": {
+            "@": {},
+            "#": "http://www.nasa.gov/"
+          }
+        },
+        "rss:copyright": {
+          "@": {},
+          "#": "no copyright"
+        },
+        "rss:managingeditor": {
+          "@": {},
+          "#": "jim.wilson@nasa.gov",
+          "name": "",
+          "email": "jim.wilson@nasa.gov"
+        },
+        "rss:webmaster": {
+          "@": {},
+          "#": "jim.wilson@nasa.gov",
+          "name": "",
+          "email": "jim.wilson@nasa.gov"
+        },
+        "itunes:subtitle": {
+          "@": {},
+          "#": "The latest video features from www.nasa.gov, NASATV, and more."
+        },
+        "itunes:summary": {
+          "@": {},
+          "#": "NASACast combines the content of all the NASACast subject area podcasts into a single omnibus podcast. Here you'll find the latest news and features on NASA's missions as well as the popular \"This Week @NASA\" newsreel."
+        },
+        "itunes:category": {
+          "@": {
+            "text": "Science & Medicine"
+          }
+        },
+        "itunes:keywords": {
+          "@": {},
+          "#": "NASA, Portal, audio, video, MP4s, NASATV, shuttle, Discovery, This Week at NASA, news, space, Mars, Earth, Moon, station, nation"
+        },
+        "itunes:image": {
+          "@": {
+            "href": "http://www.nasa.gov/sites/default/files/files/nasacast_itunes_1400.jpg"
+          }
+        },
+        "itunes:author": {
+          "@": {},
+          "#": "National Aeronautics and Space Administration (NASA)"
+        },
+        "itunes:explicit": {
+          "@": {},
+          "#": "no"
+        },
+        "itunes:owner": {
+          "@": {},
+          "itunes:email": {
+            "@": {},
+            "#": "jim.wilson@nasa.gov"
+          },
+          "itunes:name": {
+            "@": {},
+            "#": "Brian Dunbar"
+          }
+        }
+      }
+    },
+    {
+      "title": "This Week @ NASA, December 11, 2015",
+      "description": "Space station astronauts return safely to Earth, Next space station crew prepares for launch and more ...",
+      "summary": "Space station astronauts return safely to Earth, Next space station crew prepares for launch and more ...",
+      "date": "2015-12-11T19:28:00.000Z",
+      "pubdate": "2015-12-11T19:28:00.000Z",
+      "pubDate": "2015-12-11T19:28:00.000Z",
+      "link": "http://www.nasa.gov/mediacast/this-week-nasa-december-11-2015",
+      "guid": "http://www.nasa.gov/mediacast/this-week-nasa-december-11-2015",
+      "author": "jim.wilson@nasa.gov",
+      "comments": null,
+      "origlink": null,
+      "image": {},
+      "source": {
+        "title": "NASACast Video",
+        "url": "http://www.nasa.gov/rss/dyn/NASAcast_vodcast.rss"
+      },
+      "categories": [],
+      "enclosures": [
+        {
+          "url": "http://www.nasa.gov/sites/default/files/atoms/video/twan1211_h264.mp4",
+          "type": "video/mp4",
+          "length": "46893558"
+        }
+      ],
+      "rss:@": {},
+      "rss:title": {
+        "@": {},
+        "#": "This Week @ NASA, December 11, 2015"
+      },
+      "rss:link": {
+        "@": {},
+        "#": "http://www.nasa.gov/mediacast/this-week-nasa-december-11-2015"
+      },
+      "rss:description": {
+        "@": {},
+        "#": "Space station astronauts return safely to Earth, Next space station crew prepares for launch and more ..."
+      },
+      "rss:enclosure": {
+        "@": {
+          "url": "http://www.nasa.gov/sites/default/files/atoms/video/twan1211_h264.mp4",
+          "length": "46893558",
+          "type": "video/mp4"
+        }
+      },
+      "rss:guid": {
+        "@": {
+          "ispermalink": "false"
+        },
+        "#": "http://www.nasa.gov/mediacast/this-week-nasa-december-11-2015"
+      },
+      "rss:pubdate": {
+        "@": {},
+        "#": "Fri, 11 Dec 2015 14:28 EST"
+      },
+      "rss:source": {
+        "@": {
+          "url": "http://www.nasa.gov/rss/dyn/NASAcast_vodcast.rss"
+        },
+        "#": "NASACast Video"
+      },
+      "meta": {
+        "#ns": [
+          {
+            "xmlns:atom": "http://www.w3.org/2005/Atom"
+          },
+          {
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+          },
+          {
+            "xmlns:itunes": "http://www.itunes.com/dtds/podcast-1.0.dtd"
+          },
+          {
+            "xmlns:media": "http://search.yahoo.com/mrss/"
+          }
+        ],
+        "@": [
+          {
+            "xml:base": "http://www.nasa.gov/"
+          },
+          {
+            "xmlns:atom": "http://www.w3.org/2005/Atom"
+          },
+          {
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+          },
+          {
+            "xmlns:itunes": "http://www.itunes.com/dtds/podcast-1.0.dtd"
+          },
+          {
+            "xmlns:media": "http://search.yahoo.com/mrss/"
+          }
+        ],
+        "#xml": {
+          "version": "1.0",
+          "encoding": "utf-8"
+        },
+        "#type": "rss",
+        "#version": "2.0",
+        "title": "NASACast Video",
+        "description": "NASACast combines the content of all the NASACast subject area podcasts into a single omnibus podcast. Here you'll find the latest news and features on NASA's missions as well as the popular \"This Week @NASA\" newsreel.",
+        "date": null,
+        "pubdate": null,
+        "pubDate": null,
+        "link": "http://www.nasa.gov/",
+        "xmlurl": "http://www.nasa.gov/rss/dyn/NASAcast_vodcast.rss",
+        "xmlUrl": "http://www.nasa.gov/rss/dyn/NASAcast_vodcast.rss",
+        "author": "jim.wilson@nasa.gov",
+        "language": "en-us",
+        "favicon": null,
+        "copyright": "no copyright",
+        "generator": null,
+        "cloud": {},
+        "image": {
+          "url": "http://www.nasa.gov/sites/default/files/files/nasacast_itunes_1400.jpg",
+          "title": "NASACast Video"
+        },
+        "categories": [
+          "Science & Medicine"
+        ],
+        "rss:@": {},
+        "rss:title": {
+          "@": {},
+          "#": "NASACast Video"
+        },
+        "rss:description": {
+          "@": {},
+          "#": "NASACast combines the content of all the NASACast subject area podcasts into a single omnibus podcast. Here you'll find the latest news and features on NASA's missions as well as the popular \"This Week @NASA\" newsreel."
+        },
+        "rss:link": {
+          "@": {},
+          "#": "http://www.nasa.gov/"
+        },
+        "atom:link": {
+          "@": {
+            "rel": "self",
+            "href": "http://www.nasa.gov/rss/dyn/NASAcast_vodcast.rss"
+          }
+        },
+        "rss:language": {
+          "@": {},
+          "#": "en-us"
+        },
+        "rss:image": {
+          "@": {},
+          "url": {
+            "@": {},
+            "#": "http://www.nasa.gov/sites/default/files/files/nasacast_itunes_1400.jpg"
+          },
+          "title": {
+            "@": {},
+            "#": "NASACast Video"
+          },
+          "link": {
+            "@": {},
+            "#": "http://www.nasa.gov/"
+          }
+        },
+        "rss:copyright": {
+          "@": {},
+          "#": "no copyright"
+        },
+        "rss:managingeditor": {
+          "@": {},
+          "#": "jim.wilson@nasa.gov",
+          "name": "",
+          "email": "jim.wilson@nasa.gov"
+        },
+        "rss:webmaster": {
+          "@": {},
+          "#": "jim.wilson@nasa.gov",
+          "name": "",
+          "email": "jim.wilson@nasa.gov"
+        },
+        "itunes:subtitle": {
+          "@": {},
+          "#": "The latest video features from www.nasa.gov, NASATV, and more."
+        },
+        "itunes:summary": {
+          "@": {},
+          "#": "NASACast combines the content of all the NASACast subject area podcasts into a single omnibus podcast. Here you'll find the latest news and features on NASA's missions as well as the popular \"This Week @NASA\" newsreel."
+        },
+        "itunes:category": {
+          "@": {
+            "text": "Science & Medicine"
+          }
+        },
+        "itunes:keywords": {
+          "@": {},
+          "#": "NASA, Portal, audio, video, MP4s, NASATV, shuttle, Discovery, This Week at NASA, news, space, Mars, Earth, Moon, station, nation"
+        },
+        "itunes:image": {
+          "@": {
+            "href": "http://www.nasa.gov/sites/default/files/files/nasacast_itunes_1400.jpg"
+          }
+        },
+        "itunes:author": {
+          "@": {},
+          "#": "National Aeronautics and Space Administration (NASA)"
+        },
+        "itunes:explicit": {
+          "@": {},
+          "#": "no"
+        },
+        "itunes:owner": {
+          "@": {},
+          "itunes:email": {
+            "@": {},
+            "#": "jim.wilson@nasa.gov"
+          },
+          "itunes:name": {
+            "@": {},
+            "#": "Brian Dunbar"
+          }
+        }
+      }
+    },
+    {
+      "title": "This Week @ NASA, December 4, 2015",
+      "description": "A chat with Congress, from space, Next space station crew preparing for launch and more ....",
+      "summary": "A chat with Congress, from space, Next space station crew preparing for launch and more ....",
+      "date": "2015-12-04T19:14:00.000Z",
+      "pubdate": "2015-12-04T19:14:00.000Z",
+      "pubDate": "2015-12-04T19:14:00.000Z",
+      "link": "http://www.nasa.gov/mediacast/this-week-nasa-december-4-2015",
+      "guid": "http://www.nasa.gov/mediacast/this-week-nasa-december-4-2015",
+      "author": "jim.wilson@nasa.gov",
+      "comments": null,
+      "origlink": null,
+      "image": {},
+      "source": {
+        "title": "NASACast Video",
+        "url": "http://www.nasa.gov/rss/dyn/NASAcast_vodcast.rss"
+      },
+      "categories": [],
+      "enclosures": [
+        {
+          "url": "http://www.nasa.gov/sites/default/files/atoms/video/twan1204_h264.mp4",
+          "type": "video/mp4",
+          "length": "57157103"
+        }
+      ],
+      "rss:@": {},
+      "rss:title": {
+        "@": {},
+        "#": "This Week @ NASA, December 4, 2015"
+      },
+      "rss:link": {
+        "@": {},
+        "#": "http://www.nasa.gov/mediacast/this-week-nasa-december-4-2015"
+      },
+      "rss:description": {
+        "@": {},
+        "#": "A chat with Congress, from space, Next space station crew preparing for launch and more ...."
+      },
+      "rss:enclosure": {
+        "@": {
+          "url": "http://www.nasa.gov/sites/default/files/atoms/video/twan1204_h264.mp4",
+          "length": "57157103",
+          "type": "video/mp4"
+        }
+      },
+      "rss:guid": {
+        "@": {
+          "ispermalink": "false"
+        },
+        "#": "http://www.nasa.gov/mediacast/this-week-nasa-december-4-2015"
+      },
+      "rss:pubdate": {
+        "@": {},
+        "#": "Fri, 04 Dec 2015 14:14 EST"
+      },
+      "rss:source": {
+        "@": {
+          "url": "http://www.nasa.gov/rss/dyn/NASAcast_vodcast.rss"
+        },
+        "#": "NASACast Video"
+      },
+      "meta": {
+        "#ns": [
+          {
+            "xmlns:atom": "http://www.w3.org/2005/Atom"
+          },
+          {
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+          },
+          {
+            "xmlns:itunes": "http://www.itunes.com/dtds/podcast-1.0.dtd"
+          },
+          {
+            "xmlns:media": "http://search.yahoo.com/mrss/"
+          }
+        ],
+        "@": [
+          {
+            "xml:base": "http://www.nasa.gov/"
+          },
+          {
+            "xmlns:atom": "http://www.w3.org/2005/Atom"
+          },
+          {
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+          },
+          {
+            "xmlns:itunes": "http://www.itunes.com/dtds/podcast-1.0.dtd"
+          },
+          {
+            "xmlns:media": "http://search.yahoo.com/mrss/"
+          }
+        ],
+        "#xml": {
+          "version": "1.0",
+          "encoding": "utf-8"
+        },
+        "#type": "rss",
+        "#version": "2.0",
+        "title": "NASACast Video",
+        "description": "NASACast combines the content of all the NASACast subject area podcasts into a single omnibus podcast. Here you'll find the latest news and features on NASA's missions as well as the popular \"This Week @NASA\" newsreel.",
+        "date": null,
+        "pubdate": null,
+        "pubDate": null,
+        "link": "http://www.nasa.gov/",
+        "xmlurl": "http://www.nasa.gov/rss/dyn/NASAcast_vodcast.rss",
+        "xmlUrl": "http://www.nasa.gov/rss/dyn/NASAcast_vodcast.rss",
+        "author": "jim.wilson@nasa.gov",
+        "language": "en-us",
+        "favicon": null,
+        "copyright": "no copyright",
+        "generator": null,
+        "cloud": {},
+        "image": {
+          "url": "http://www.nasa.gov/sites/default/files/files/nasacast_itunes_1400.jpg",
+          "title": "NASACast Video"
+        },
+        "categories": [
+          "Science & Medicine"
+        ],
+        "rss:@": {},
+        "rss:title": {
+          "@": {},
+          "#": "NASACast Video"
+        },
+        "rss:description": {
+          "@": {},
+          "#": "NASACast combines the content of all the NASACast subject area podcasts into a single omnibus podcast. Here you'll find the latest news and features on NASA's missions as well as the popular \"This Week @NASA\" newsreel."
+        },
+        "rss:link": {
+          "@": {},
+          "#": "http://www.nasa.gov/"
+        },
+        "atom:link": {
+          "@": {
+            "rel": "self",
+            "href": "http://www.nasa.gov/rss/dyn/NASAcast_vodcast.rss"
+          }
+        },
+        "rss:language": {
+          "@": {},
+          "#": "en-us"
+        },
+        "rss:image": {
+          "@": {},
+          "url": {
+            "@": {},
+            "#": "http://www.nasa.gov/sites/default/files/files/nasacast_itunes_1400.jpg"
+          },
+          "title": {
+            "@": {},
+            "#": "NASACast Video"
+          },
+          "link": {
+            "@": {},
+            "#": "http://www.nasa.gov/"
+          }
+        },
+        "rss:copyright": {
+          "@": {},
+          "#": "no copyright"
+        },
+        "rss:managingeditor": {
+          "@": {},
+          "#": "jim.wilson@nasa.gov",
+          "name": "",
+          "email": "jim.wilson@nasa.gov"
+        },
+        "rss:webmaster": {
+          "@": {},
+          "#": "jim.wilson@nasa.gov",
+          "name": "",
+          "email": "jim.wilson@nasa.gov"
+        },
+        "itunes:subtitle": {
+          "@": {},
+          "#": "The latest video features from www.nasa.gov, NASATV, and more."
+        },
+        "itunes:summary": {
+          "@": {},
+          "#": "NASACast combines the content of all the NASACast subject area podcasts into a single omnibus podcast. Here you'll find the latest news and features on NASA's missions as well as the popular \"This Week @NASA\" newsreel."
+        },
+        "itunes:category": {
+          "@": {
+            "text": "Science & Medicine"
+          }
+        },
+        "itunes:keywords": {
+          "@": {},
+          "#": "NASA, Portal, audio, video, MP4s, NASATV, shuttle, Discovery, This Week at NASA, news, space, Mars, Earth, Moon, station, nation"
+        },
+        "itunes:image": {
+          "@": {
+            "href": "http://www.nasa.gov/sites/default/files/files/nasacast_itunes_1400.jpg"
+          }
+        },
+        "itunes:author": {
+          "@": {},
+          "#": "National Aeronautics and Space Administration (NASA)"
+        },
+        "itunes:explicit": {
+          "@": {},
+          "#": "no"
+        },
+        "itunes:owner": {
+          "@": {},
+          "itunes:email": {
+            "@": {},
+            "#": "jim.wilson@nasa.gov"
+          },
+          "itunes:name": {
+            "@": {},
+            "#": "Brian Dunbar"
+          }
+        }
+      }
+    }
+  ]
+}
