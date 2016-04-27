@@ -11,19 +11,16 @@ module.exports = function (job, events) {
 		agent: job.agent,
 		count: 0
 	};
-
 	return Promise.join(
 			client.fetchCollections(job.labels),
 			client.fetchVideos(job.labels)
 		)
-
-		// Once all 4 complete we have arrays for each
 		.then(function (results) {
+			// Once each request completes, each will have a result array
 			var ooyalaCollections = results[0];
 			var ooyalaVideos = results[1];
 
 			events.broadcast({role: 'store', cmd: 'sync', sub: 'startSession'}, {organization: job.organization, syncJobId: syncJobId});
-
 			_.each(ooyalaVideos, function (video) {
 				video.organization = job.organization;
 				events.broadcast({role: 'store', cmd: 'sync', sub: 'upsert'}, {organization: job.organization, entity: video});
