@@ -17,10 +17,10 @@
       "duration": "30113",
       "external_id": null,
       "preview_image_url": "http://ak.c.ooyala.com/Y4aWY0dzp_fj1MNc9jps3ZuNQXqmgCEt/3Gduepif0T1UGY8H4xMDoxOjBzMTt2bJ",
-      "metadata": {
-      },
+      "metadata": {},
       "labels": []
-    },{
+    },
+    {
       "player_id": "1eb4382d6c7f4bcfa9e1ccf3e520198b",
       "ad_set_id": null,
       "asset_type": "video",
@@ -44,18 +44,18 @@
       },
       "labels": [
         {
-         "parent_id": null,
-         "full_name": "/LABEL2",
-         "name": "LABEL2",
-         "id": "999999-label"
+          "parent_id": null,
+          "full_name": "/LABEL2",
+          "name": "LABEL2",
+          "id": "999999-label"
         },
         {
-         "parent_id": null,
-         "full_name": "/LABEL1",
-         "name": "LABEL1",
-         "id": "999998-label"
+          "parent_id": null,
+          "full_name": "/LABEL1",
+          "name": "LABEL1",
+          "id": "999998-label"
         }
       ]
-     }
+    }
   ]
 }

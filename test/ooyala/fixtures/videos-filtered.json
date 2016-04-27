@@ -1,0 +1,31 @@
+{
+  "items": [
+    {
+      "player_id": "1eb4382d6c7f4bcfa9e1ccf3e520198b",
+      "ad_set_id": null,
+      "asset_type": "video",
+      "embed_code": "00000",
+      "description": "Video 1",
+      "created_at": "2015-08-20T16:30:17Z",
+      "publishing_rule_id": "22222",
+      "time_restrictions": null,
+      "updated_at": "2015-08-20T16:31:30Z",
+      "hosted_at": null,
+      "original_file_name": "Video 1",
+      "name": "Video 1",
+      "status": "live",
+      "duration": "30113",
+      "external_id": null,
+      "preview_image_url": "http://ak.c.ooyala.com/Y4aWY0dzp_fj1MNc9jps3ZuNQXqmgCEt/3Gduepif0T1UGY8H4xMDoxOjBzMTt2bJ",
+      "metadata": {},
+      "labels": [
+        {
+          "name": "Published",
+          "id": "3fcf578d80344f27b009e7f7250e9f17",
+          "parent_id": null,
+          "full_name": "/Published"
+        }
+      ]
+    }
+  ]
+}

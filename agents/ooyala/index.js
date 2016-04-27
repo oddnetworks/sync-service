@@ -13,8 +13,8 @@ module.exports = function (job, events) {
 	};
 
 	return Promise.join(
-			client.fetchCollections(),
-			client.fetchVideos()
+			client.fetchCollections(job.labels),
+			client.fetchVideos(job.labels)
 		)
 
 		// Once all 4 complete we have arrays for each

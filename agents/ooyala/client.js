@@ -110,19 +110,35 @@ function decorateCollectionWithRelationships(options, collection, client, relati
 		});
 }
 
+function appendLabels(labels) {
+	if (labels && _.isArray(labels)) {
+		return _.map(labels, function (label) {
+			return ' AND labels INCLUDES \'' + label + '\'';
+		}).join();
+	} else if (labels && _.isString(labels)) {
+		return ' AND labels INCLUDES \'' + labels + '\'';
+	}
+
+	return '';
+}
+
 function OoyalaClient(key, secret) {
 	this.instance = new OoyalaApi(key, secret);
 
 	this.options = {
 		concurrency: 10,
 		params: {
-			video: {
-				include: 'metadata,labels',
-				where: 'asset_type=\'video\''
+			video: function videoParams(labels) {
+				return {
+					include: 'metadata,labels',
+					where: 'asset_type=\'video\'' + appendLabels(labels)
+				};
 			},
-			collection: {
-				include: 'metadata,labels',
-				where: 'asset_type=\'channel\' OR asset_type=\'channel_set\''
+			collection: function collectionParams(labels) {
+				return {
+					include: 'metadata,labels',
+					where: 'asset_type=\'channel\' OR asset_type=\'channel_set\'' + appendLabels(labels)
+				};
 			}
 		}
 	};
@@ -142,7 +158,7 @@ OoyalaClient.prototype = {
 		var options = this.options;
 
 		return client
-			.get(['assets', id].join('/'), this.options.params.video)
+			.get(['assets', id].join('/'), this.options.params.video())
 			.then(transform.video)
 			.then(function (video) {
 				return decorateVideoWithStreams(options, video, client);
@@ -152,12 +168,12 @@ OoyalaClient.prototype = {
 			});
 	},
 
-	fetchVideos: function () {
+	fetchVideos: function (labels) {
 		var client = this.instance;
 		var options = this.options;
 
 		return client
-			.get('assets', this.options.params.video)
+			.get('assets', this.options.params.video(labels))
 			.then(transform.videos)
 			.then(function (videos) {
 				return decorateVideosWithStreams(options, videos, client);
@@ -172,7 +188,7 @@ OoyalaClient.prototype = {
 		var options = this.options;
 
 		return client
-			.get(['assets', id].join('/'), options.params.collection)
+			.get(['assets', id].join('/'), options.params.collection())
 			.then(function control(data) {
 				var collection = transform.channelToCollection(data);
 				return decorateCollectionWithRelationships(options, collection, client);
@@ -183,12 +199,12 @@ OoyalaClient.prototype = {
 			.then(cleanup);
 	},
 
-	fetchCollections: function fetchCollections() {
+	fetchCollections: function fetchCollections(labels) {
 		var client = this.instance;
 		var options = this.options;
 
 		return client
-			.get('assets', options.params.collection)
+			.get('assets', options.params.collection(labels))
 			.then(function getItems(data) {
 				return data.items;
 			})
